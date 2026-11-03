@@ -1,5 +1,7 @@
 # Voice AI Pipeline with KitOps & Jozu Hub
 
+[![Packaged with KitOps](https://img.shields.io/badge/Packaged%20with-KitOps-FFAF52?labelColor=363636)](https://kitops.org)
+
 A self-hosted call centre voice agent built with open-source models, packaged and managed with [KitOps](https://kitops.ml) and [Jozu Hub](https://jozu.ml).
 
 ```
